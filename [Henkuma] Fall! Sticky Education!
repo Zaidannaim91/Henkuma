@@ -1,0 +1,25 @@
+{
+   "title":"[Henkuma] Fall! Sticky Education!",
+   "description":"",
+   "author":"Henkuma",
+   "artist":"Henkuma",
+   "cover":"https://i.imgur.com/RXdJGmF.png",
+   "chapters":{
+      "1":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/pmfCJ8s"
+         },
+         "last_updated":1624606143,
+         "title":"Fall! Sticky Education!",
+         "volume":"1"
+      },
+      "2":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/4y3T7vl"
+         },
+         "last_updated":1624606143,
+         "title":"Fall! Sticky Education! ~Chapter 2~",
+         "volume":"2"
+      }
+   }
+}
